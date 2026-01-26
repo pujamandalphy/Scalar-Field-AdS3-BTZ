@@ -1,2 +1,7 @@
-# Scalar-Field-AdS3-BTZ
-Study on scalar field perturbations and quasinormal modes in AdS3 and BTZ spacetimes
+# Scalar Field Perturbations and Quasinormal Modes in AdS3 and BTZ Spacetimes
+
+Independent theoretical study on scalar field dynamics, quasinormal modes,
+and stability in AdS3 and BTZ black hole backgrounds.
+
+Status: Ongoing  
+Methods: Analytical calculations, Frobenius method, hypergeometric solutions  
