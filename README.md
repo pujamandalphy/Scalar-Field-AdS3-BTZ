@@ -5,3 +5,7 @@ and stability in AdS3 and BTZ black hole backgrounds.
 
 Status: Ongoing  
 Methods: Analytical calculations, Frobenius method, hypergeometric solutions  
+
+## Contents
+- Project report (PDF)
+- Representative plots of scalar normal modes in AdS3
