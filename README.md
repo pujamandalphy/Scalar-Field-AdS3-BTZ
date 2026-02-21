@@ -8,4 +8,4 @@ Methods: Analytical calculations, Frobenius method, hypergeometric solutions
 
 ## Contents
 - Project report (PDF)
-- Representative plots of scalar normal modes in AdS3
+  
